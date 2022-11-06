@@ -1,3 +1,3 @@
 # semprini-mdm
 
-Simple Master Data Management tool using the django admin with extensions.
+Simple Master Data Management tool using a django rest backend with react front-end.
